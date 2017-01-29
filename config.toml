@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "Moehandi's Github page"
+baseurl = "https://moehandi.github.io/"
+
+googleAnalytics = ""
+canonifyurls = true
+#disqusShortname = "moehandi"
+
+[params]
+# General information
+author = "Moehandi"
+description = "Moehandi's github page"
+copyright = "Released under the MIT license"
+dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  #logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+#Repository
+provider = "GitHub"
+repo_url = "https://github.com/moehandi/"
